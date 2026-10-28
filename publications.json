@@ -1,0 +1,498 @@
+[
+  {
+    "title": "Depression Detection from Three-Channel Resting-State EEG Using a Hybrid Conv1D and Spectral–Statistical Fusion Model",
+    "year": "2026",
+    "type": "Journal articles",
+    "citation": "Știrbu O-I, Argatu F-C, Adochiei F-C, Enache B-A, Serițan G-C. Depression Detection from Three-Channel Resting-State EEG Using a Hybrid Conv1D and Spectral–Statistical Fusion Model. Sensors. 2026; 26(5):1417. https://doi.org/10.3390/s26051417 WOS:001713892500001",
+    "doi": "10.3390/s26051417",
+    "source_line": 31
+  },
+  {
+    "title": "Deception Detection from Five-Channel Wearable EEG on LieWaves: A Reproducible Baseline for Subject-Dependent and Subject-Independent Evaluation",
+    "year": "2026",
+    "type": "Journal articles",
+    "citation": "Nicolescu Ș-T, Adochiei F-C, Argatu F-C, Enache B-A, Serițan G-C. Deception Detection from Five-Channel Wearable EEG on LieWaves: A Reproducible Baseline for Subject-Dependent and Subject-Independent Evaluation. Sensors. 2026; 26(3):1027. https://doi.org/10.3390/s26031027 WOS:001688031800001",
+    "doi": "10.3390/s26031027",
+    "source_line": 32
+  },
+  {
+    "title": "Computational Analysis of EEG Responses to Anxiogenic Stimuli Using Machine Learning Algorithms",
+    "year": "2026",
+    "type": "Journal articles",
+    "citation": "Adochiei F-C, Ioniță A, Adochiei I-R, Stirbu O-I, Petroiu G, Argatu FC. Computational Analysis of EEG Responses to Anxiogenic Stimuli Using Machine Learning Algorithms. Applied Sciences. 2026; 16(3):1504. https://doi.org/10.3390/app16031504 WOS:001688744100001",
+    "doi": "10.3390/app16031504",
+    "source_line": 33
+  },
+  {
+    "title": "Real-Time Environmental Parameter Monitoring and Temperature Forecasting Using a Custom IoT Weather Station and Linear Regression",
+    "year": "2025",
+    "type": "Conference papers",
+    "citation": "Niculescu, C. A., Argatu, F. C., Serițan, G. C., Adochiei, F. C., & Enache, B. A. (2025, October). Real-Time Environmental Parameter Monitoring and Temperature Forecasting Using a Custom IoT Weather Station and Linear Regression. In 2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE) (pp. 1-5). IEEE.",
+    "doi": "",
+    "source_line": 106
+  },
+  {
+    "title": "Performance Evaluation of Wavelet and Adaptive Filters for ECG Denoising in the LabVIEW Environment",
+    "year": "2025",
+    "type": "Conference papers",
+    "citation": "Nistor, A., Serițan, G. C., Adochiei, F. C., Argatu, F. C., & Enache, B. A. (2025, October). Performance Evaluation of Wavelet and Adaptive Filters for ECG Denoising in the LabVIEW Environment. In 2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE) (pp. 1-5). IEEE.",
+    "doi": "",
+    "source_line": 105
+  },
+  {
+    "title": "Modular Mobile Robotic Platform for Smart City and Indoor Service Applications",
+    "year": "2025",
+    "type": "Conference papers",
+    "citation": "Adochiei, I. R., Argatu, F. C., Enache, B. A., Banica, C. K., Grigorescu, S. D., & Adochiei, F. C. (2025, September). Modular Mobile Robotic Platform for Smart City and Indoor Service Applications. In International Conference on Nanotechnologies and Biomedical Engineering (pp. 624-634). Cham: Springer Nature Switzerland. DOI 10.1007/978-3-032-06497-4_61  WOS:001596032600075",
+    "doi": "10.1007/978-3-032-06497-4_61",
+    "source_line": 62
+  },
+  {
+    "title": "Integrated System for Interconnecting Medical Equipment and Secure Data Transmission to a Remote Monitoring Platform",
+    "year": "2025",
+    "type": "Conference papers",
+    "citation": "Adochiei, F. C., Țoi, F. A., Argatu, F., Serițan, G., & AdochieI, I. (2025, October). Integrated System for Interconnecting Medical Equipment and Secure Data Transmission to a Remote Monitoring Platform. In 2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE) (pp. 1-6). IEEE.",
+    "doi": "",
+    "source_line": 107
+  },
+  {
+    "title": "HL7 FHIR-Based Open-Source Framework for Real-Time Biomedical Signal Acquisition and IoMT Interoperability",
+    "year": "2025",
+    "type": "Journal articles",
+    "citation": "Adochiei F-C, Țoi F-A, Adochiei I-R, Argatu FC, Serițan G, Petroiu G-G. HL7 FHIR-Based Open-Source Framework for Real-Time Biomedical Signal Acquisition and IoMT Interoperability. Applied Sciences. 2025; 15(23):12803. https://doi.org/10.3390/app152312803 WOS:001633986400001",
+    "doi": "10.3390/app152312803",
+    "source_line": 34
+  },
+  {
+    "title": "Energy-Aware A* Path Planning for Indoor Automated Guided Vehicles",
+    "year": "2025",
+    "type": "Conference papers",
+    "citation": "Enache, B. A., Grigorescu, S. D., Adochiei, F. C., Argatu, F. C., Seritan, G. C., & Banica, C. K. (2025, October). Energy-Aware A* Path Planning for Indoor Automated Guided Vehicles. In 2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE) (pp. 1-6). IEEE.",
+    "doi": "",
+    "source_line": 104
+  },
+  {
+    "title": "Embedded Power Management and State-of-Charge Estimation in Modular Robotic Platforms: Experimental Validation and Web-Based Monitoring",
+    "year": "2025",
+    "type": "Conference papers",
+    "citation": "Argatu, F. C., Adochiei, I. R., Enache, B. A., Banica, C. K., Serițan, G. C., & Adochiei, F. C. (2025, September). Embedded Power Management and State-of-Charge Estimation in Modular Robotic Platforms: Experimental Validation and Web-Based Monitoring. In International Conference on Nanotechnologies and Biomedical Engineering (pp. 635-644). Cham: Springer Nature Switzerland. WOS:001596032600076",
+    "doi": "",
+    "source_line": 49
+  },
+  {
+    "title": "The Power of Play: Strategies for Enhancing Development in Children with Autism Spectrum Disorders",
+    "year": "2024",
+    "type": "Journal articles",
+    "citation": "Adochiei, F.-C.; Arghir, S.-N.; Adochiei, I.R.; Argatu, F.C.; Seritan, G.C.; Alexandrescu, B. The Power of Play: Strategies for Enhancing Development in Children with Autism Spectrum Disorders. Sensors 2024, 24, 6720. https://doi.org/10.3390/s24206720  WOS:001341613300001  Journal Impact Factor ™  3.4/2023",
+    "doi": "10.3390/s24206720",
+    "source_line": 35
+  },
+  {
+    "title": "IoT-Based Real-Time Electrocardiogram Monitoring and Recording System",
+    "year": "2024",
+    "type": "Conference papers",
+    "citation": "F. -C. Adochiei, D. -A. Dumitrescu, G. C. Seritan, F. Ciprian Argatu, B. -A. Enache and I. . -. R. Adochiei, \"IoT-Based Real-Time Electrocardiogram Monitoring and Recording System,\" 2024 E-Health and Bioengineering Conference (EHB), IASI, Romania, 2024, pp. 1-5, doi: 10.1109/EHB64556.2024.10805722. WOS:001413708800104",
+    "doi": "10.1109/EHB64556.2024.10805722",
+    "source_line": 64
+  },
+  {
+    "title": "Intraocular Pressure Determining System Based on Rebound Tonometry",
+    "year": "2024",
+    "type": "Conference papers",
+    "citation": "Adochiei, I. R., Popescu, M., Argatu, F. C., Petroiu, G., & Adochiei, F. C. (2024, November). Intraocular Pressure Determining System Based on Rebound Tonometry. In 2024 E-Health and Bioengineering Conference (EHB) (pp. 1-5). IEEE. WOS:001413708800103",
+    "doi": "",
+    "source_line": 65
+  },
+  {
+    "title": "Towards Sustainable Healthcare: Development of an Integrated Waste Management Application for Hospital Environments",
+    "year": "2023",
+    "type": "Conference papers",
+    "citation": "Radu, L. E., Manea, I., Duță, Ș., Adochiei, I. R., & Argatu, F. C. (2023, November). Towards Sustainable Healthcare: Development of an Integrated Waste Management Application for Hospital Environments. In International Conference on e-Health and Bioengineering (pp. 51-58). Cham: Springer Nature Switzerland. WOS:001434998400006",
+    "doi": "",
+    "source_line": 69
+  },
+  {
+    "title": "Intelligent Monitoring System for Stress Levels",
+    "year": "2023",
+    "type": "Conference papers",
+    "citation": "Manea, A., Argatu, F. C., Serițan, G. C., Enache, B. A., Adochiei, I. R., & Adochiei, F. C. (2023, November). Intelligent Monitoring System for Stress Levels. In International Conference on e-Health and Bioengineering (pp. 59-67). Cham: Springer Nature Switzerland. WOS:001434998400007",
+    "doi": "",
+    "source_line": 66
+  },
+  {
+    "title": "Indoor 3D Scanning and Navigation System for an Automated Guided Vehicle",
+    "year": "2023",
+    "type": "Journal articles",
+    "citation": "S.-D. Grigorescu, G.-C. Serițan, B.-A. Enache, F.-C. Argatu, F.-C. Adochiei, and V. Stanciu, “INDOOR 3D SCANNING AND NAVIGATION SYSTEM FOR AN AUTOMATED GUIDED VEHICLE,” REVUE ROUMAINE DES SCIENCES TECHNIQUES-SERIE ELECTROTECHNIQUE ET ENERGETIQUE. Vol. 48, 2, pp. 232-235, Bucarest 2023 WOS:001026628400019",
+    "doi": "",
+    "source_line": 36
+  },
+  {
+    "title": "Exploring Emotions: Play-Based Interventions for Children with Autism Spectrum Disorders",
+    "year": "2023",
+    "type": "Conference papers",
+    "citation": "Arghir, S. N., Adochiei, I. R., Petroiu, G., Stirbu, O. I., Argatu, F. C., & Adochiei, F. C. (2023, November). Exploring Emotions: Play-Based Interventions for Children with Autism Spectrum Disorders. In International Conference on e-Health and Bioengineering (pp. 68-77). Cham: Springer Nature Switzerland. WOS:001434998400008",
+    "doi": "",
+    "source_line": 70
+  },
+  {
+    "title": "Enhancing Super-Resolution Microscopy Through a Synergistic Approach with Generative Machine Learning Models",
+    "year": "2023",
+    "type": "Conference papers",
+    "citation": "Ciucu, R., Adochiei, I. R., Argatu, F. C., Nicolescu, S. T., Petroiu, G., & Adochiei, F. C. (2023, November). Enhancing Super-Resolution Microscopy Through a Synergistic Approach with Generative Machine Learning Models. In International Conference on e-Health and Bioengineering (pp. 313-323). Cham: Springer Nature Switzerland. WOS:001326809000036",
+    "doi": "",
+    "source_line": 67
+  },
+  {
+    "title": "Determination of Cognitive-Emotional Characteristics through the Method of Individual Asymmetries of Power Spectral Density of EEG Waves",
+    "year": "2023",
+    "type": "Conference papers",
+    "citation": "Adochiei, F. C., Paraschiv, T., Cochior, D., Paraschiv, R., Stirbu, O. I., Argatu, F. C., & Adochiei, I. R. (2023, November). Determination of Cognitive-Emotional Characteristics through the Method of Individual Asymmetries of Power Spectral Density of EEG Waves. In 2023 International Symposium on Fundamentals of Electrical Engineering (ISFEE) (pp. 1-4). IEEE. WOS:001324614500008",
+    "doi": "",
+    "source_line": 68
+  },
+  {
+    "title": "The Optimization of a Real-Time Indoor Air Quality Monitoring System",
+    "year": "2022",
+    "type": "Conference papers",
+    "citation": "Serban Teodor Nicolescu, Oana-Isabela Ştirbu, George Calin Seritan, Florin Argatu, Gladiola Petroiu, Radu Ciucu, Ioana Raluca Adochiei \"The Optimization of a Real-Time Indoor Air Quality Monitoring System,\" 2022 E-Health and Bioengineering Conference (EHB), Iasi, Romania, 2022, pp. 1-4, doi: 10.1109/EHB55594.2022.9991389.",
+    "doi": "10.1109/EHB55594.2022.9991389",
+    "source_line": 110
+  },
+  {
+    "title": "The Localization of the Epileptogenic Zone from the Interictal Electroencephalogram",
+    "year": "2022",
+    "type": "Conference papers",
+    "citation": "L. E. Dorobanţu, C. K. Bănică, F. C. Argatu, T. Paraschiv, R. V. Paraschiv and F. C. Adochiei, \"The Localization of the Epileptogenic Zone from the Interictal Electroencephalogram,\" 2022 E-Health and Bioengineering Conference (EHB), Iasi, Romania, 2022, pp. 1-4, doi: 10.1109/EHB55594.2022.9991431.",
+    "doi": "10.1109/EHB55594.2022.9991431",
+    "source_line": 109
+  },
+  {
+    "title": "Radiological Diagnosis of SARS-CoV-2 Infected Patients by Automated Classification of Chest Radiographs using DTL",
+    "year": "2022",
+    "type": "Conference papers",
+    "citation": "Oana-Isabela Ştirbu, Serban Teodor Nicolescu, George Calin Seritan, Ioana Raluca Adochiei, Gladiola Petroiu, Florin Argatu, Felix-Constantin Adochiei \"Radiological Diagnosis of SARS-CoV-2 Infected Patients by Automated Classification of Chest Radiographs using DTL,\" 2022 E-Health and Bioengineering Conference (EHB), Iasi, Romania, 2022, pp. 1-4, doi: 10.1109/EHB55594.2022.9991502.",
+    "doi": "10.1109/EHB55594.2022.9991502",
+    "source_line": 111
+  },
+  {
+    "title": "Energy Evaluation of Bugs vs Birds Path Planning Strategies for Robots",
+    "year": "2022",
+    "type": "Conference papers",
+    "citation": "B. -A. Enache, S. -D. Grigorescu, F. -C. Argatu, F. -C. Adochiei, I. Vilciu and T. -I. Voicila, \"Energy Evaluation of Bugs vs Birds Path Planning Strategies for Robots,\" 2022 14th International Conference on Electronics, Computers and Artificial Intelligence (ECAI), Ploiesti, Romania, 2022, pp. 1-4, doi: 10.1109/ECAI54874.2022.9847441.,",
+    "doi": "10.1109/ECAI54874.2022.9847441",
+    "source_line": 108
+  },
+  {
+    "title": "A Multipurpose Video Immersion Laboratory",
+    "year": "2022",
+    "type": "Conference papers",
+    "citation": "Sorin Dan Grigorescu, George-Calin Seritan, Bogdan-Adrian Enache, Felix-Constantin Adochiei, Florin-Ciprian Argatu, Irina Vilciu, Teodor-Iulian Voicila \"A Multipurpose Video Immersion Laboratory,\" 2022 E-Health and Bioengineering Conference (EHB), Iasi, Romania, 2022, pp. 1-4, doi: 10.1109/EHB55594.2022.9991365.",
+    "doi": "10.1109/EHB55594.2022.9991365",
+    "source_line": 112
+  },
+  {
+    "title": "Studying the impact of Dynamic Line Rating on the Romanian Power Transmission Grid",
+    "year": "2021",
+    "type": "Conference papers",
+    "citation": "Lebedov O, Enache BA, Argatu FC. Studying the impact of Dynamic Line Rating on the Romanian Power Transmission Grid. In2021 9th International Conference on Modern Power Systems (MPS) 2021 Jun 16 (pp. 1-3). IEEE. Baza de date IEEE",
+    "doi": "",
+    "source_line": 113
+  },
+  {
+    "title": "Flyback Converter for a Multi-Chemistry Battery Balancer",
+    "year": "2021",
+    "type": "Conference papers",
+    "citation": "Enache, B. A., Seritan, G. C., Cepisca, C., Grigorescu, S. D., Argatu, F. C., Adochiei, F. C., & Voicila, T. I., \"Flyback Converter for a Multi-Chemistry Battery Balancer,\" 2021 12th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2021, Bucharest, March 25-27 pp. 1-6, doi: 10.1109/ATEE52255.2021.9425205. WOS:000676164800086",
+    "doi": "10.1109/ATEE52255.2021.9425205",
+    "source_line": 71
+  },
+  {
+    "title": "Air Quality Monitoring and Control System for a Hospital Room",
+    "year": "2021",
+    "type": "Conference papers",
+    "citation": "Andrei FD, Seritan G, Enache B, Argatu FC, Adochiei FC. Air Quality Monitoring and Control System for a Hospital Room. In2021 International Conference on e-Health and Bioengineering (EHB) 2021 Nov 18 (pp. 1-4). IEEE.WOS:000802227900123",
+    "doi": "",
+    "source_line": 72
+  },
+  {
+    "title": "A Survey of Condition Monitoring Systems Operation in Romanian Transmission Substations",
+    "year": "2021",
+    "type": "Conference papers",
+    "citation": "Leu B, Enache BA, Argatu FC, Stanculescu M. A Survey of Condition Monitoring Systems Operation in Romanian Transmission Substations. In2021 International Conference on Electromechanical and Energy Systems (SIELMEN) 2021 Oct 6 (pp. 470-475). IEEE. Baza de date IEEE",
+    "doi": "",
+    "source_line": 114
+  },
+  {
+    "title": "The Influence of the Generator Signal Parameters Over the AntiBubbles Formation",
+    "year": "2020",
+    "type": "Conference papers",
+    "citation": "Adochiei FC, Seritan GC, Enache BA, Argatu FC, Dobre AR. The Influence of the Generator Signal Parameters Over the AntiBubbles Formation. In2020 International Symposium on Fundamentals of Electrical Engineering (ISFEE) 2020 Nov 5 (pp. 1-4). IEEE. WOS:000812321500028",
+    "doi": "",
+    "source_line": 75
+  },
+  {
+    "title": "Robotic Platform for Recovering Injured People in Smart Home",
+    "year": "2020",
+    "type": "Conference papers",
+    "citation": "Grigorescu SD, Seritan GC, Enache BA, Adochiei FC, Argatu FC, Stavre A. Robotic Platform for Recovering Injured People in Smart Home. In2020 International Conference on e-Health and Bioengineering (EHB) 2020 Oct 29 (pp. 1-4). IEEE. WOS:000646194100141",
+    "doi": "",
+    "source_line": 74
+  },
+  {
+    "title": "Performance Evaluation of Photovoltaic Panels Containing Cells with Different Bus Bars Configurations in Partial Shading Conditions",
+    "year": "2020",
+    "type": "Journal articles",
+    "citation": "Seritan, G. C., Enache, B. A., Adochiei, F. C., Argatu, F. C., Christodoulou, C., Vita, V., ... & Hathazi, F. I. (2020). PERFORMANCE EVALUATION OF PHOTOVOLTAIC PANELS CONTAINING CELLS WITH DIFFERENT BUS BARS CONFIGURATIONS IN PARTIAL SHADING CONDITIONS. REVUE ROUMAINE DES SCIENCES TECHNIQUES-SERIE ELECTROTECHNIQUE ET ENERGETIQUE, 65(1-2), 67-70.Bucarest, 2020   WOS:000552052900011",
+    "doi": "",
+    "source_line": 40
+  },
+  {
+    "title": "Open Source Architecture for Iot Based SCADA System for Smart Home",
+    "year": "2020",
+    "type": "Journal articles",
+    "citation": "SD Grigorescu, GC Seritan, BA Enache, FC Argatu, FC Adochiei Open Source Architecture for Iot Based SCADA System for Smart Home The Scientific Bulletin of Electrical Engineering Faculty, 20, 58-33-36.Publisher Sciendo DOI: https://doi.org/10.2478/sbeef-2020-0107",
+    "doi": "10.2478/sbeef-2020-0107",
+    "source_line": 95
+  },
+  {
+    "title": "Electronic system for real-time indoor air quality monitoring",
+    "year": "2020",
+    "type": "Conference papers",
+    "citation": "Adochiei FC, Nicolescu ŞT, Adochiei IR, Seritan GC, Enache BA, Argatu FC, Costin D. Electronic system for real-time indoor air quality monitoring. In2020 International Conference on e-Health and Bioengineering (EHB) 2020 Oct 29 (pp. 1-4). IEEE. WOS:000646194100066",
+    "doi": "",
+    "source_line": 76
+  },
+  {
+    "title": "Computing the Caloric Expenditure During Kick Scooter Activity",
+    "year": "2020",
+    "type": "Conference papers",
+    "citation": "Seritan GC, Enache BA, Adochiei FC, Argatu FC, Petrescu AS, Adochiei IR, Voiculescu DI. Computing the Caloric Expenditure During Kick Scooter Activity. In2020 International Conference on e-Health and Bioengineering (EHB) 2020 Oct 29 (pp. 1-4). IEEE. WOS:000646194100128",
+    "doi": "",
+    "source_line": 73
+  },
+  {
+    "title": "Comparative Study of Screening Methods for Second Life LiFePO4 Batteries",
+    "year": "2020",
+    "type": "Journal articles",
+    "citation": "Enache, B. A., Seritan, G. C., Cepisca, C., Grigorescu, S. D., Argatu, F. C., Adochiei, F. C., & Voicila, T. I. (2020). COMPARATIVE STUDY OF SCREENING METHODS FOR SECOND LIFE LIFEPO4 BATTERIES. Screening, 5, 14. REVUE ROUMAINE DES SCIENCES TECHNIQUES-SERIE ELECTROTECHNIQUE ET ENERGETIQUE.  Vol. 65, 1-2, pp. 71–74, Bucarest, 2020 WOS:000552052900012",
+    "doi": "",
+    "source_line": 38
+  },
+  {
+    "title": "Biomonitoring system for persons subjected to tests based on virtual reality in virtual cube with immersion",
+    "year": "2020",
+    "type": "Patents & applications",
+    "citation": "RO134535-A2 · Published patent application. Inventors: G. Serițan, C. Cepișcă, S. D. Grigorescu, F. C. Argatu, C. K. Bănică, F. C. Adochiei, B. Enache and R. F. Porumb. Assignee: University POLITEHNICA of Bucharest. Derwent accession: 2020-C1185Q. The supplied record identifies the A2 publication; a grant is not asserted.",
+    "doi": ""
+  },
+  {
+    "title": "Robotic Platform with Medical Applications in the Smart City Environment",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Grigorescu, S. D., Argatu, F. C., Paturca, S. V., Cepisca, C., Seritan, G. C., Adochiei, F. C., & Enache, B. (2019, March). Robotic Platform with Medical Applications in the Smart City Environment. In 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE) (pp. 1-6). IEEE. WOS:000475904500148",
+    "doi": "",
+    "source_line": 79
+  },
+  {
+    "title": "Power Quality Analyzer for Smart Grid-Smart Home Applications",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Argatu, F. C., Brezoianu, V., Argatu, V. V., Enache, B. A., Adochiei, F. C., & Icleanu, T. (2019, September). Power Quality Analyzer for Smart Grid-Smart Home Applications. In 2019 54th International Universities Power Engineering Conference (UPEC) (pp. 1-4). IEEE. INSPEC Accession Number: 19135473 DOI: 10.1109/UPEC.2019.8893501 WOS:000619338200043",
+    "doi": "10.1109/UPEC.2019.8893501",
+    "source_line": 56
+  },
+  {
+    "title": "Performance Evaluation of a Partially Shaded PV cell with Different Bus Bars Configurations",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Seritan, G. C., Grigorescu, S. D., Enache, B. A., Argatu, F. C., Adochiei, F. C., & Icleanu, T. (2019, September). Performance Evaluation of a Partially Shaded PV cell with Different Bus Bars Configurations. In 2019 54th International Universities Power Engineering Conference (UPEC) (pp. 1-4). IEEE. INSPEC Accession Number: 19135374 DOI: 10.1109/UPEC.2019.8893437 WOS:000619338200001",
+    "doi": "10.1109/UPEC.2019.8893437",
+    "source_line": 78
+  },
+  {
+    "title": "Modelling the Discharge of a Lithium Iron Phosphate Battery at Low Temperatures",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Enache, B. A., Grigorescu, S. D., Seritan, G. C., Argatu, F. C., Adochiei, F. C., & Constantinescu, L. M. (2019, March). Modelling the Discharge of a Lithium Iron Phosphate Battery at Low Temperatures. In 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE) (pp. 1-6). IEEE.  WOS:000475904500058",
+    "doi": "",
+    "source_line": 84
+  },
+  {
+    "title": "Innovative Devops for Artificial Intelligence",
+    "year": "2019",
+    "type": "Journal articles",
+    "citation": "Ciucu, R., Adochiei, F. C., Adochiei, I. R., Argatu, F., Seriţan, G. C., Enache, B., ... & Argatu, V. V. (2019). Innovative Devops for Artificial Intelligence. The Scientific Bulletin of Electrical Engineering Faculty, 19(1), 58-63.Publisher Sciendo DOI: https://doi.org/10.1515/sbeef-2019-0011",
+    "doi": "10.1515/sbeef-2019-0011",
+    "source_line": 97
+  },
+  {
+    "title": "Design and Implementation of a Body Posture Detection System",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Adochiei, F. C., Adochiei, I. R., Ciucu, R., Pietroiu-Andruseac, G., Argatu, F. C., & Jula, N. (2019, November). Design and Implementation of a Body Posture Detection System. In 2019 E-Health and Bioengineering Conference (EHB) (pp. 1-4). IEEE. WOS:000558648300129",
+    "doi": "",
+    "source_line": 81
+  },
+  {
+    "title": "Complex Embedded System for Stress Quantification",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Adochiei, I. R., Adochiei, F., Cepisca, C., Serițan, G., Enache, B., Argatu, F., & Ciucu, R. (2019, March). Complex Embedded System for Stress Quantification. In 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE) (pp. 1-4). WOS:000475904500049",
+    "doi": "",
+    "source_line": 77
+  },
+  {
+    "title": "Building and designing a Dual Axis Solar Tracker for Educational Purposes",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Argatu, F. C., Tarcau, F. D., Argatu, V. V., Grigorescu, S. D., Enache, B. A., & Constantinescu, L. M. (2019, June). Building and designing a Dual Axis Solar Tracker for Educational Purposes. In 2019 11th International Conference on Electronics, Computers and Artificial Intelligence (ECAI) (pp. 1-4). IEEE. WOS:000569985400004",
+    "doi": "",
+    "source_line": 52
+  },
+  {
+    "title": "Brain Mapping using a Blockchain Approach",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Adochiei, F. C., Ciucu, R., Adochiei, I. R., Argatu, F. C., Enache, B., Miron, C., & Seritan, G. (2019, November). Brain Mapping using a Blockchain Approach. In 2019 E-Health and Bioengineering Conference (EHB) (pp. 1-4). IEEE.  WOS:000558648300217",
+    "doi": "",
+    "source_line": 82
+  },
+  {
+    "title": "Alert and Surveillance System for Newborns",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Seritan, G., Bujanovschi, M., Adochiei, F. C., Voiculescu, Ddevice., Argatu, F. C., & Grigorescu, S. D. (2019, November). Alert and Surveillance System for Newborns. In 2019 E-Health and Bioengineering Conference (EHB) (pp. 1-4). IEEE.  WOS:000558648300119",
+    "doi": "",
+    "source_line": 80
+  },
+  {
+    "title": "A Scalable Real-Time Biomonitoring Platform",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Argatu, F. C., Adochiei, F. C., Adochiei, I. R., Ciucu, R., Vasiliki, V., & Seritan, G. (2019, November). A Scalable Real-Time Biomonitoring Platform. In 2019 E-Health and Bioengineering Conference (EHB) (pp. 1-4). IEEE. WOS:000558648300193",
+    "doi": "",
+    "source_line": 50
+  },
+  {
+    "title": "A Real-Time WebGL Rendering Piepeline for MRI Using RayCasting Tranfer Functions",
+    "year": "2019",
+    "type": "Conference papers",
+    "citation": "Ciucu, R., Adochiei, F., Adochiei, I., Argatu, F., Larco, C. M., & Grigorie, L. (2019, September). A Real-Time WebGL Rendering Piepeline for MRI Using RayCasting Tranfer Functions. In International Conference on Nanotechnologies and Biomedical Engineering (pp. 529-534). Springer, Cham.  WOS:000552314200095",
+    "doi": "",
+    "source_line": 83
+  },
+  {
+    "title": "Low cost platform for monitoring honey production and bees health",
+    "year": "2018",
+    "type": "Conference papers",
+    "citation": "Seritan, G. C., Enache, B. A., Argatu, F. C., Adochiei, F. C., & Toader, S. (2018, May). Low cost platform for monitoring honey production and bees health. In 2018 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR) (pp. 1-4). IEEE. WOS:000450065900007",
+    "doi": "",
+    "source_line": 87
+  },
+  {
+    "title": "Load Monitoring Solutions for the Smart Buildings–An Overview",
+    "year": "2018",
+    "type": "Journal articles",
+    "citation": "Argatu, F. C., Argatu, V., Enache, B. A., Cepisca, C., Seritan, G. C., & Andrei, P. C. (2018). Load Monitoring Solutions for the Smart Buildings–An Overview. The Scientific Bulletin of Electrical Engineering Faculty, 18(2), 1-6. DOI: https://doi.org/10.1515/sbeef-2017-0026",
+    "doi": "10.1515/sbeef-2017-0026",
+    "source_line": 99
+  },
+  {
+    "title": "Intelligent modular system for optimizing energy consumption and rendering it efficient, for small- and medium-sized enterprises",
+    "year": "2018",
+    "type": "Patents & applications",
+    "citation": "RO131156-B1 · Granted 29 June 2018. Application: RO131156-A0, published 30 May 2016. Inventors: George-Călin Serițan, Costin Cepișcă, Florin Ancuța, Ana-Maria Paraschiv, Cristina-Caliopia Staicu, Florin-Ciprian Argatu, Codrin-Dorin Lungu, Cristian-Florin Humelnicu and Marius-Ciprian Orlandea. Original title: Sistem modular destinat optimizării și eficientizării consumurilor energetice.",
+    "doi": ""
+  },
+  {
+    "title": "Improvement of teaching activities in higher education",
+    "year": "2018",
+    "type": "Journal articles",
+    "citation": "SERIȚAN, G. C., Enache, B. A., Porumb, R., Argatu, F. C., Adochiei, F. C., & Vasiliki, V. (2018). Improvement of teaching activities in higher education. REVUE ROUMAINE DES SCIENCES TECHNIQUES-SERIE ELECTROTECHNIQUE ET ENERGETIQUE Volume: 63 Issue: 4 Pages: 437-440 Published: OCT-DEC 2018 Document Type:Article WOS:000459843500014",
+    "doi": "",
+    "source_line": 42
+  },
+  {
+    "title": "Device for monitoring people with Alzheimer’s disease",
+    "year": "2018",
+    "type": "Conference papers",
+    "citation": "Cazangiu, T., Argatu, F. C., Enache, B. A., Vita, V., & Stavros, G. (2018, November). Device for monitoring people with Alzheimer’s disease. In 2018 International Symposium on Fundamentals of Electrical Engineering (ISFEE) (pp. 1-5). IEEE. WOS:000480396400045",
+    "doi": "",
+    "source_line": 85
+  },
+  {
+    "title": "Automatic control system for stage lights",
+    "year": "2018",
+    "type": "Conference papers",
+    "citation": "Stanescu, I. D., Enache, B. A., Seritan, G. C., Grigorescu, S. D., Argatu, F. C., & Adochiei, F. C. (2018, November). Automatic control system for stage lights. In 2018 International Symposium on Fundamentals of Electrical Engineering (ISFEE) (pp. 1-4). IEEE. WOS:000480396400004",
+    "doi": "",
+    "source_line": 86
+  },
+  {
+    "title": "Use of pedagogical agents to build multiple choice equations for an electric workshop based on LabVIEW",
+    "year": "2017",
+    "type": "Conference papers",
+    "citation": "Grigorescu, S. D., Cepişcă, C., Paţurcă, S. V., Ghita, O. M., Seritan, G., Argatu, F., ... & Banica, C. (2017, March). Use of pedagogical agents to build multiple choice equations for an electric workshop based on LabVIEW. In 2017 10th International Symposium on Advanced Topics in Electrical Engineering (ATEE) (pp. 919-924). IEEE. WOS:0004033994001781.",
+    "doi": "",
+    "source_line": 88
+  },
+  {
+    "title": "Coaxial linear motor for electromagnetic launchers",
+    "year": "2016",
+    "type": "Journal articles",
+    "citation": "Grigorescu, S. D., Craciunescu, A., Paturca, S. V., Codreanu, L., Andrei, H., Cepisca, C., ... & Argatu, F. (2016). Coaxial linear motor for electromagnetic launchers. The Scientific Bulletin of Electrical Engineering Faculty, 1(ahead-of-print).Journal The Scientific Bulletin of Electrical Engineering Faculty Volume 1 DOI: 10.1515/SBEEF-2016-0016",
+    "doi": "10.1515/SBEEF-2016-0016",
+    "source_line": 101
+  },
+  {
+    "title": "An analysis of influence of different type of light sources to the power quality",
+    "year": "2016",
+    "type": "Conference papers",
+    "citation": "Argatu, F. C., & Oancea, C. D. (2016, October). An analysis of influence of different type of light sources to the power quality. In 2016 International Conference and Exposition on Electrical and Power Engineering (EPE) (pp. 823-826). IEEE. WOS:000390706300161",
+    "doi": "",
+    "source_line": 54
+  },
+  {
+    "title": "Senzori biomedicali și instrumentație",
+    "year": "2015",
+    "type": "Books & teaching materials",
+    "citation": "SERIŢAN G.C., ADOCHIEI F., ARGATU F., CEPISCA C.  Senzori biomedicali si instrumentatie, Ed Politehnica Press, 2015, 175pp, ISBN - 978-606-515-650",
+    "doi": ""
+  },
+  {
+    "title": "Măsurări și control utilizate în iluminatul public",
+    "year": "2010",
+    "type": "Books & teaching materials",
+    "citation": "ARGATU,F, CEPISCA,C, BARDIS,N, SERITAN,G Masurari si control utilizate in iluminatul public  Ed.ELECTRA, Bucuresti, 2010, 154 pag., ISBN978-606-507-048-6",
+    "doi": ""
+  },
+  {
+    "title": "Contribuții privind influența instalațiilor de iluminat asupra calității energiei electrice",
+    "year": "2010",
+    "type": "Doctoral thesis",
+    "citation": "Florin-Ciprian Argatu. Doctoral thesis in Electrical Engineering, University POLITEHNICA of Bucharest. PhD awarded March 2010. English title: Contributions regarding the influence of lighting installations on power quality.",
+    "doi": ""
+  },
+  {
+    "title": "Senzori biomedicali",
+    "year": "",
+    "type": "Books & teaching materials",
+    "citation": "Argatu, F, Seritan, G, Adochiei, F, Enache, B, Cepisca, C, Grigorescu S,D.Senzori Biomedicali Ed. Politehnica Press, Bucuresti, ISBN 978-606-515-803-0",
+    "doi": ""
+  },
+  {
+    "title": "Măsurări electrice și electronice",
+    "year": "",
+    "type": "Books & teaching materials",
+    "citation": "Seritan, G, Cepisca, C, Adochiei, F, Argatu,F, Ancuta,F, Măsurări electrice si electronice Ed. Politehnica Press, Bucuresti, ISBN 978-606-515-609-8",
+    "doi": ""
+  },
+  {
+    "title": "Măsurarea mărimilor electrice în energetică",
+    "year": "",
+    "type": "Books & teaching materials",
+    "citation": "Seritan, G, Cepisca, C, Adochiei, F, Argatu,F, Ancuta,F, Masurarea marimilor electrice in energetica Ed. Politehnica Press, Bucuresti, ISBN 978-606-515-629-6",
+    "doi": ""
+  }
+]
