@@ -1,0 +1,62 @@
+[
+  {
+    "name": "academic-website",
+    "description": null,
+    "has_pages": true,
+    "html_url": "https://github.com/argatuflorin/academic-website",
+    "homepage": null,
+    "language": "HTML",
+    "updated_at": "2026-10-29T08:09:40Z",
+    "archived": false,
+    "fork": false,
+    "private": false
+  },
+  {
+    "name": "argatuflorin.github.io",
+    "description": null,
+    "has_pages": true,
+    "html_url": "https://github.com/argatuflorin/argatuflorin.github.io",
+    "homepage": null,
+    "language": "HTML",
+    "updated_at": "2026-10-28T23:20:17Z",
+    "archived": false,
+    "fork": false,
+    "private": false
+  },
+  {
+    "name": "contor_modbus",
+    "description": null,
+    "has_pages": true,
+    "html_url": "https://github.com/argatuflorin/contor_modbus",
+    "homepage": null,
+    "language": null,
+    "updated_at": "2026-03-02T12:22:51Z",
+    "archived": false,
+    "fork": false,
+    "private": false
+  },
+  {
+    "name": "MDoEE",
+    "description": "Interactive simulations and virtual laboratory for Monitoring and Diagnosis of Electrical Equipment – (IEC)",
+    "has_pages": true,
+    "html_url": "https://github.com/argatuflorin/MDoEE",
+    "homepage": null,
+    "language": "HTML",
+    "updated_at": "2026-10-28T09:03:26Z",
+    "archived": false,
+    "fork": false,
+    "private": false
+  },
+  {
+    "name": "power_quality_monitoring",
+    "description": null,
+    "has_pages": false,
+    "html_url": "https://github.com/argatuflorin/power_quality_monitoring",
+    "homepage": null,
+    "language": null,
+    "updated_at": "2026-03-02T12:50:34Z",
+    "archived": false,
+    "fork": false,
+    "private": false
+  }
+]

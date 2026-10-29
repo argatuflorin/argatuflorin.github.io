@@ -1,25 +1,12 @@
-SITE ACADEMIC FLORIN-CIPRIAN ARGATU
+PAGINA PRINCIPALA GITHUB
 
-1. Dezarhivează acest pachet într-un folder pe calculator.
-2. Pentru previzualizare, deschide index.html.
-3. Deschide depozitul argatuflorin/argatuflorin.github.io pe GitHub.
-4. Apasă Add file > Upload files.
-5. Trage în zona de încărcare fișierele și folderul assets din pachetul dezarhivat. Fișierul index.html trebuie să ajungă direct în rădăcina depozitului, lângă README.md. Nu încărca arhiva ZIP sau folderul care o conține.
-6. Apasă Commit changes. Păstrează publicarea din main, / (root).
-7. După terminarea publicării, deschide https://argatuflorin.github.io/ . Pentru a vedea actualizarea, poți folosi Ctrl+F5.
+1. Dezarhivează acest pachet.
+2. Deschide https://github.com/argatuflorin/argatuflorin.github.io
+3. Add file > Upload files.
+4. Încarcă toate fișierele și folderul assets din pachetul extras, direct în rădăcina depozitului. Nu încărca ZIP-ul sau folderul exterior.
+5. Commit changes pe main.
+6. După publicare, deschide https://argatuflorin.github.io/ și apasă Ctrl+F5.
 
-Structura trebuie să includă:
-index.html
-research.html
-publications.html
-teaching.html
-about.html
-contact.html
-cv.html
-styles.css
-app.js
-assets/portrait.png
-assets/favicon.svg
+Aceasta este pagina principală. Profilul academic rămâne în depozitul academic-website, iar laboratorul în MDoEE. Nu încărca acest pachet în academic-website.
 
-Fișierele JSON sunt copii de referință ale datelor. Pagina afișează conținut static din fișierele HTML.
-Fotografia originală este oglindită doar la afișare, fără modificarea chipului.
+Lista proiectelor publice se actualizează din GitHub la deschiderea paginii. Browserul poate păstra lista 30 de minute; butonul Actualizează lista forțează o verificare nouă. Dacă GitHub nu răspunde, sunt afișate proiectele salvate.
