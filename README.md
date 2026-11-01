@@ -4,7 +4,9 @@ Personal website: https://argatuflorin.github.io/
 
 Academic profile: https://argatuflorin.github.io/academic-website/
 
-Virtual laboratory: https://argatuflorin.github.io/MDoEE/
+Virtual laboratory — MDoEE: https://argatuflorin.github.io/MDoEE/
+
+Virtual laboratory — CCM: https://argatuflorin.github.io/CCM/
 
 ## Update the homepage
 
