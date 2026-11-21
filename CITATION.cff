@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "argatuflorin.github.io – measurement, sensors, embedded systems and intelligent energy monitoring"
+type: software
+authors:
+  - family-names: Argatu
+    given-names: Florin-Ciprian
+    orcid: "https://orcid.org/0000-0003-0606-6273"
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest, Faculty of Electrical Engineering, DMAECS"
+    email: florin.argatu@upb.ro
+repository-code: "https://github.com/argatuflorin/argatuflorin.github.io"
+url: "https://argatuflorin.github.io/"
+license: CC-BY-NC-ND-4.0
+abstract: "Personal website: measurement, sensors, embedded systems and intelligent energy monitoring; entry point to the interactive teaching laboratories."
